@@ -13,6 +13,7 @@ def sol(x, y, k):
 
     count = []
 
+
     for i in range(x, x+k):
         for j in range(y, y+k):
             count.append(slice[i][j])

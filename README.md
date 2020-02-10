@@ -1,3 +1,6 @@
 # baekjoon
 
-Try to solve all problems
+### 재귀
+
+[#10872 팩토리얼](./retry/10872)
+
