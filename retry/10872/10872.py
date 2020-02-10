@@ -1,9 +1,9 @@
 n = int(input())
 
 def sol(n):
-    if n == 0 or n == 1:
+    if n == 1 or n == 0:
         return 1
-    
-    return sol(n-1)*n
+    else:
+        return n*sol(n-1)
 
 print(sol(n))
