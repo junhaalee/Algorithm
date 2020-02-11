@@ -1,4 +1,4 @@
-# baekjoon
+# Baekjoon
 
 ### 재귀
 
@@ -29,3 +29,8 @@
 [#11399 ATM](./solved/11399)
 
 [#1541 잃어버린 괄호](./solved/1541)
+
+### DP(Dynamic Programming) : 큰 문제를 작은 문제로 나누어 푸는 알고리즘
+
+[#1904 01타일](./solved/1904)
+
