@@ -1,5 +1,3 @@
-name = input()
-
 def cal(alphabet):
     num = ord(alphabet)
     if num-65 >= 13:
@@ -8,27 +6,37 @@ def cal(alphabet):
         return num-65
 
 def solution(name):
+    
+    name = list(name)
+    answer = 0
+    ind = 0
 
-    names = [list(name), [list(name)[0]]+list(name)[1:][::-1]]
-    answers = []
-    for name in names:
-        answer = 0
-        i = 0
+    while(True):
+        
+        answer += cal(name[ind])
+        name[ind] = 'A'
+        
+        if len(set(name)) == 1 and list(set(name))[0] == 'A':
+            break
+
+        left,right,indL,indR = 1,1,ind-1,ind+1
+
         while(True):
-
-            if len(set(name)) == 1 and list(set(name))[0] == 'A':
+            if name[indL] != 'A':
                 break
-
-            if i >= 1:
-                answer += 1
+            indL -= 1
+            left += 1
+        while(True):
+            if name[indR] != 'A':
+                break            
+            indR += 1
+            right += 1            
             
-            answer += cal(name[i])
-            name[i] = 'A'
+        if left < right:
+            answer += left
+            ind = indL
+        else:
+            answer += right
+            ind = indR
 
-            i+=1
-        answers.append(answer)
-
-    return min(answers)
-
-
-print(solution(name))
+    return answer
