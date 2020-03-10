@@ -75,3 +75,8 @@
 [#2178 미로탐색](./solved/2178)
 
 [#7576 토마토](./solved/7576)
+
+
+### 기타
+
+[#1011 Fly me to the Alpha Centauri](./solved/1011)
