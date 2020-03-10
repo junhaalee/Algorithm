@@ -1,47 +1,39 @@
 w,h = map(int, input().split())
 
 graph = []
-for _ in range(h):
-    graph.append(list(map(int, input().split())))
-
-# graph = [[1, -1, 0, 0, 0, 0], [0, -1, 0, 0, 0, 0], [0, 0, 0, 0, -1, 0], [0, 0, 0, 0, -1, 1]]
+one = []
+for i in range(h):
+    temp = list(map(int, input().split()))
+    for k in range(len(temp)):
+        if temp[k] == 1 : one.append([i,k])
+    graph.append(temp)
 
 dx = [-1,0,1,0]
 dy = [0,1,0,-1]
 
-def check(graph):
-    num = 0
-    for i in range(h):
-        for k in range(w):
-            if graph[i][k] == 0 : num += 1
-
-    return num
-
-count = 0
+count = -1
 while(True):
 
-    bch = check(graph)
-
-    if bch == 0:
+    if len(one) == 0:
         break
 
     temp = []
-    for i in range(h):
-        for k in range(w):
-            if graph[i][k] == 1:
-                for n in range(4):
-                    tx = i + dx[n]
-                    ty = k + dy[n]
-                    if tx>=0 and ty>=0 and tx<h and ty<w and graph[tx][ty] == 0 : temp.append([tx,ty])
-    
-    for t in temp:
-        graph[t[0]][t[1]] = 1
-    ach = check(graph)
+    while one:
+        o = one.pop()
+        for n in range(4):
+            tx = o[0] + dx[n]
+            ty = o[1] + dy[n]
+            if tx>=0 and ty>=0 and tx<h and ty<w and graph[tx][ty] == 0:
+                graph[tx][ty] = 1 
+                temp.append([tx,ty])
 
-    if ach == bch:
-        count = -1
-        break
-                    
+    one = temp
     count += 1
+
+for i in range(h):
+    for k in range(w):
+        if graph[i][k] == 0:
+            count = -1
+            break
 
 print(count)
