@@ -1,4 +1,6 @@
-# Baekjoon
+# Baekjoon	
+
+### 34 SOLVED
 
 ### 재귀
 
@@ -75,6 +77,11 @@
 [#2178 미로탐색](./solved/2178)
 
 [#7576 토마토](./solved/7576)
+
+
+### STACK(LIFO) & QUEUE(FIFO) & DEQUE
+
+[#1966 프린터 큐](./solved/1966)
 
 
 ### 기타
