@@ -1,6 +1,8 @@
 # Baekjoon	
 
+
 ### 34 SOLVED
+
 
 ### 재귀
 
@@ -9,6 +11,7 @@
 [#10870 피보나치](./solved/10870)
 
 [#11729 하노이의 탑](./solved/11729)
+
 
 
 ### Brute-Force
@@ -22,6 +25,7 @@
 [#1018 체스판 다시 칠하기](./solved/1018)
 
 [#1436 영화감독 숌](./solved/1436)
+
 
 
 ### Greedy : 각 단계에서의 최선이 전체의 최선이 되는 알고리즘
@@ -41,6 +45,7 @@
 [프로그래머스 - 큰 수 만들기](./solved/큰수만들기)
 
 [프로그래머스 - 구명보트](./solved/구명보트)
+
 
 
 ### DP(Dynamic Programming) : 큰 문제를 작은 문제로 나누어 푸는 알고리즘
@@ -64,6 +69,7 @@
 [#12865 평범한 배낭](./solved/12865)
 
 
+
 ### DFS(Depth First Search) & BFS(Breadth First Search)
 
 [#1260 DFS와 BFS](./solved/1260)
@@ -79,9 +85,13 @@
 [#7576 토마토](./solved/7576)
 
 
+
 ### STACK(LIFO) & QUEUE(FIFO) & DEQUE
 
 [#1966 프린터 큐](./solved/1966)
+
+[#1021 회전하는 큐](./solved/1021)
+
 
 
 ### 기타
