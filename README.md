@@ -70,6 +70,8 @@
 
 [#1010 다리놓기](./solved/1010)
 
+[#2096 내려가기](./solved/2096)
+
 
 
 ### DFS(Depth First Search) & BFS(Breadth First Search)
