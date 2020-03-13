@@ -55,4 +55,5 @@ for o in one:
     t_graph[o[0]][o[1]] = 0
     ans.append(bfs(t_graph,n,m))
 
-print(len(ans))
+print(max(ans))
+
