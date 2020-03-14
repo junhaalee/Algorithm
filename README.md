@@ -72,6 +72,8 @@
 
 [#2096 내려가기](./solved/2096)
 
+[#2352 반도체 설계](./solved/2352)
+
 
 
 ### DFS(Depth First Search) & BFS(Breadth First Search)
