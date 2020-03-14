@@ -94,6 +94,8 @@
 
 [#2206 벽 부수고 이동하기](./solved/2206)
 
+[#11724 연결 요소의 개수](./solved/11724)
+
 
 
 ### STACK(LIFO) & QUEUE(FIFO) & DEQUE
