@@ -1,8 +1,6 @@
 # Baekjoon	
 
 
-### 34 SOLVED
-
 
 ### 재귀
 
