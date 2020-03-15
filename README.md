@@ -100,8 +100,7 @@
 
 
 
-
-### STACK(LIFO) & QUEUE(FIFO) & DEQUE
+### STACK(LIFO) & QUEUE(FIFO) & DEQUE & HEAP
 
 [#1966 프린터 큐](./solved/1966)
 
@@ -110,6 +109,9 @@
 [#11279 최대 힙](./solved/11279)
 
 [#2493 탑](./solved/2493)
+
+[#1927 최소 힙](./solved/1927)
+
 
 
 ### 기타
