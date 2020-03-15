@@ -13,6 +13,5 @@ for i in range(n-1):
     if not stack:
         ans.append(0)
     stack.append([i,nums[i]])
-    print(stack)
 
 print(' '.join(list(map(str,ans))))
