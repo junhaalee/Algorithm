@@ -11,7 +11,7 @@ def sol(i):
     else:
         for j in range(N):
             row[i] = j
-            if promising(i):
+            if check(i):
                 sol(i+1)
 
 N = int(input())

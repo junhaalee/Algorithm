@@ -71,6 +71,8 @@
 
 [#2352 반도체 설계](./solved/2352)
 
+[#14501 퇴사](./solved/14501)
+
 
 
 ### DFS(Depth First Search) & BFS(Breadth First Search)
