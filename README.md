@@ -73,6 +73,8 @@
 
 [#14501 퇴사](./solved/14501)
 
+[프로그래머스 - 타겟넘버](./solved/타겟넘버)
+
 
 
 ### DFS(Depth First Search) & BFS(Breadth First Search)
