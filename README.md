@@ -71,6 +71,8 @@
 
 [#9095 - 1,2,3 더하기](./solved/9095)
 
+[#11048 - 이동하기](./solved/11048)
+
 ### DFS(Depth First Search) & BFS(Breadth First Search)
 
 [#1260 DFS와 BFS](./solved/1260)
