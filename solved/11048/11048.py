@@ -21,5 +21,5 @@ for x in range(n):
                 if tx >= 0 and ty >= 0 and tx < n and ty < m:
                     temp.append(graph[tx][ty])
             graph[x][y] += max(temp)
-            
+
 print(graph[n-1][m-1])

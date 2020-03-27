@@ -101,6 +101,8 @@
 
 [#10026 적록색약](./solved/10026)
 
+[#2644 촌수계산](./solved/2644)
+
 ### STACK(LIFO) & QUEUE(FIFO) & DEQUE & HEAP
 
 [#1966 프린터 큐](./solved/1966)
