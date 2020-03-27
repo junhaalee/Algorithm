@@ -73,6 +73,8 @@
 
 [#11048 - 이동하기](./solved/11048)
 
+[#2747 - 피보나치 수](./solved/2747)
+
 ### DFS(Depth First Search) & BFS(Breadth First Search)
 
 [#1260 DFS와 BFS](./solved/1260)
