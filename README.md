@@ -103,6 +103,8 @@
 
 [#2644 촌수계산](./solved/2644)
 
+[#5014 스타트링크](./solved/5014)
+
 ### STACK(LIFO) & QUEUE(FIFO) & DEQUE & HEAP
 
 [#1966 프린터 큐](./solved/1966)
