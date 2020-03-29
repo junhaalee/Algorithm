@@ -148,3 +148,5 @@
 ### 기타
 
 [#1011 Fly me to the Alpha Centauri](./solved/1011)
+
+[#6996 애너그램](./solved/6996)
