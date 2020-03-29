@@ -111,6 +111,8 @@
 
 [#2468 안전영역](./solved/2468)
 
+[#17836 공주님을 구해라](./solved/17836)
+
 ### STACK(LIFO) & QUEUE(FIFO) & DEQUE & HEAP
 
 [#1966 프린터 큐](./solved/1966)
