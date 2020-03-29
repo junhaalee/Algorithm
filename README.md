@@ -107,6 +107,8 @@
 
 [#5014 스타트링크](./solved/5014)
 
+[#2468 안전영역](./solved/2468)
+
 ### STACK(LIFO) & QUEUE(FIFO) & DEQUE & HEAP
 
 [#1966 프린터 큐](./solved/1966)
