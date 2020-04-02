@@ -113,6 +113,8 @@
 
 [#17836 공주님을 구해라](./solved/17836)
 
+[#9205 맥주 마시면서 걸어가기](./solved/9205)
+
 ### STACK(LIFO) & QUEUE(FIFO) & DEQUE & HEAP
 
 [#1966 프린터 큐](./solved/1966)
