@@ -1,59 +1,94 @@
-n,m = map(int, input().split())
+import sys
+input = sys.stdin.readline
 
-graph = [list(map(int, list(input()))) for _ in range(n)]
-dx = [0,1,0,-1]
-dy = [1,0,-1,0]
-one = []
-for i in range(n):
-    for k in range(m):
-        if graph[i][k] == 1:
-            count = 0
-            for j in range(4):
-                tx = i + dx[j]
-                ty = k + dy[j]
-                if tx >= 0 and ty >= 0 and tx < n and ty < m and graph[tx][ty] == 0:
-                    count += 1
-            if count != 0:
-                one.append([i,k])
+n, m = map(int, input().split())
+n,m = 6,4
 
-def bfs(graph,n,m):
+graph = []
 
-    current = [[0,0]]
-    dx = [0,1,0,-1]
-    dy = [1,0,-1,0]
+for _ in range(n):
+    graph.append(list(map(int, list(input())[:-1])))
 
-    count = 1
-    while(True):
 
-        if graph[n-1][m-1] != 0:
+
+
+graph = [[0, 1, 0, 0], [1, 1, 1, 0], [1, 0, 0, 0], [0, 0, 0, 0], [0, 1, 1, 1], [0, 0, 0, 0]]
+visit = [[0]*m for _ in range(n)]
+
+dx = [1,0,-1,0]
+dy = [0,1,0,-1]
+
+
+
+count = 0
+check = 0
+
+
+while(True):
+
+    if [n-1,m-1] in temp:
+        break
+
+
+    ch = True
+    if check:
+        for i in range(4):
+            tx = x + dx[i]
+            ty = y + dy[i]
+            if (0<=tx<n) and (0<=ty<m) and graph[tx][ty] == 0 and visit[tx][ty] == 0:
+                ch = False
+                break
+        
+        if ch:
+            print(-1)
             break
+        else:
+            for i in range(4):
+                tx = x + dx[i]
+                ty = y + dy[i]
+                if (0<=tx<n) and (0<=ty<m) and graph[tx][ty] == 0 and visit[tx][ty] == 0:
 
-        temp = []
-        check = 0
-        for c in current:
-            for k in range(4):
-                tx = c[0]+dx[k]
-                ty = c[1]+dy[k]
-                if tx >=0 and ty >=0 and tx < n and ty < m and graph[tx][ty] == 0:
-                    graph[tx][ty] = count
-                    temp.append([tx,ty])
-                else:
-                    check += 1
-        count += 1
-        current = temp
 
-        if check == 4:
-            graph[n-1][m-1] = -2
-            break
 
-    return graph[n-1][m-1]+1
 
-ans = []
 
-for o in one:
-    t_graph = graph
-    t_graph[o[0]][o[1]] = 0
-    ans.append(bfs(t_graph,n,m))
 
-print(max(ans))
 
+
+
+
+
+
+
+def dfs(x,y,check,count):
+    global dx,dy,visit
+    print(x,y,count)
+    count += 1
+    visit[x][y] = 1
+    ch = True
+    if check:
+        for i in range(4):
+            tx = x + dx[i]
+            ty = y + dy[i]
+            if (0<=tx<n) and (0<=ty<m) and graph[tx][ty] == 0 and visit[tx][ty] == 0:
+                ch = False
+                break
+
+        if ch:
+            return -1
+        else:
+            for i in range(4):
+                tx = x + dx[i]
+                ty = y + dy[i]
+                if (0<=tx<n) and (0<=ty<m) and graph[tx][ty] == 0 and visit[tx][ty] == 0:
+                    count = dfs(tx,ty,1,count)
+
+    else:
+        for i in range(4):
+            tx = x + dx[i]
+            ty = y + dy[i]
+            if (0<=tx<n) and (0<=ty<m) and graph[tx][ty] == 0 and visit[tx][ty] == 0:
+                count = dfs(tx,ty,0,count)
+            elif (0<=tx<n) and (0<=ty<m) and graph[tx][ty] == 1 and visit[tx][ty] == 0:
+                cout = dfs(tx,ty,1,count)
+    return count
