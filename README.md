@@ -156,6 +156,8 @@
 
 [#1764 듣보잡](./solved/1764)
 
+[#9935 문자열 폭](./solved/9935)
+
 ### 기타
 
 [#1011 Fly me to the Alpha Centauri](./solved/1011)
