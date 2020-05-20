@@ -79,7 +79,6 @@
 
 [#11727 - 2×n 타일링 2](./solved/11727)
 
-
 ### DFS(Depth First Search) & BFS(Breadth First Search)
 
 [#1260 DFS와 BFS](./solved/1260)
@@ -171,6 +170,8 @@
 ### 이분탐색
 
 [#1920 수 찾기](./solved/1920)
+
+[#10816 숫자 카드2](./solved/10816)
 
 ### 기타
 
