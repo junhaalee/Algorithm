@@ -158,6 +158,8 @@
 
 [#9935 문자열 폭](./solved/9935)
 
+[#1100 하얀 ](./solved/1100)
+
 ### 기타
 
 [#1011 Fly me to the Alpha Centauri](./solved/1011)
