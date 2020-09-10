@@ -161,6 +161,8 @@
 
 [#10816 숫자 카드2](./solved/10816)
 
+[#2805 나무자르기](./solved/2805)
+
 ### 기타
 
 [#1011 Fly me to the Alpha Centauri](./solved/1011)
