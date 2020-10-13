@@ -1,4 +1,4 @@
-#ALGORITHM - 95 SOLVED
+#ALGORITHM - 103 SOLVED
 
 ## Baekjoon	
 
