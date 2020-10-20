@@ -1,6 +1,6 @@
 #ALGORITHM - 103 SOLVED
 
-## Baekjoon	
+## 백준	
 
 ### 재귀
 
