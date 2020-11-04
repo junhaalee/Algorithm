@@ -104,6 +104,8 @@
 
 [#9205 맥주 마시면서 걸어가기](./solved/9205)
 
+[#2583 영역 구하기](./solved/2583)
+
 ### STACK(LIFO) & QUEUE(FIFO) & DEQUE & HEAP
 
 [#1966 프린터 큐](./solved/1966)
