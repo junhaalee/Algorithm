@@ -170,6 +170,8 @@
 
 [#1654 랜선 자르기](./solved/1654)
 
+[#2512 예산](./solved/2512)
+
 ### 기타
 
 [#1011 Fly me to the Alpha Centauri](./solved/1011)
