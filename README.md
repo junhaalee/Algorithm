@@ -1,5 +1,3 @@
-#ALGORITHM - 103 SOLVED
-
 ## 백준	
 
 ### 재귀
