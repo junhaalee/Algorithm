@@ -108,6 +108,8 @@
 
 [#2583 영역 구하기](./solved/2583)
 
+[#18405 영역 구하기](./solved/18405)
+
 ### STACK(LIFO) & QUEUE(FIFO) & DEQUE & HEAP
 
 [#1966 프린터 큐](./solved/1966)
