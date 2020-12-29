@@ -252,5 +252,6 @@
 
 ## Leet Code
 
-[LeetCode - Valid Palindrome](./solved/LeetCode/validpalindrome)
+[LeetCode - Valid Palindrome](./solved/LeetCode/valid_palindrome)
 
+[LeetCode - Reverse String](./solved/LeetCode/reverse_string)
