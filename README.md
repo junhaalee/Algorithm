@@ -261,3 +261,5 @@
 [LeetCode - Most common word](./solved/LeetCode/common_word)
 
 [LeetCode - Group Anagrams](./solved/LeetCode/group_anagram)
+
+[LeetCode - Lognest Palindrome](./solved/LeetCode/longest_palindrome)
