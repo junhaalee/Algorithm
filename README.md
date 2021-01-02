@@ -262,4 +262,6 @@
 
 [LeetCode - Group Anagrams](./solved/LeetCode/group_anagram)
 
-[LeetCode - Lognest Palindrome](./solved/LeetCode/longest_palindrome)
+[LeetCode - Lognest Palindrome Substring](./solved/LeetCode/longest_palindrome)
+
+[LeetCode - Two sum](./solved/LeetCode/two_sum)

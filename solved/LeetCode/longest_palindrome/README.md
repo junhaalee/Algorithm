@@ -2,7 +2,7 @@
 
 ### 풀이
 
-* Longes Common Substring과 비슷한 문제. DP는 생각보다 빠르지 않음.
+* Longest Common Substring과 비슷한 문제. DP는 생각보다 빠르지 않음.
 
 
 ```Python
