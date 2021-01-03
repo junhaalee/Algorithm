@@ -265,3 +265,5 @@
 [LeetCode - Lognest Palindrome Substring](./solved/LeetCode/longest_palindrome)
 
 [LeetCode - Two sum](./solved/LeetCode/two_sum)
+
+[LeetCode - Trapping Rain Water](./solved/LeetCode/trapping_rain)
