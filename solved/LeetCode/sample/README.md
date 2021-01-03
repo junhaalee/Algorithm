@@ -1,4 +1,4 @@
-### LeetCode - [ ](https://leetcode.com/problems/)
+### LeetCode - []()
 
 ### 풀이
 
