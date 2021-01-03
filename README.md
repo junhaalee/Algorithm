@@ -269,3 +269,5 @@
 [LeetCode - Trapping Rain Water](./solved/LeetCode/trapping_rain)
 
 [LeetCode - 3sum](./solved/LeetCode/3sum)
+
+[LeetCode - Array Partition I](./solved/LeetCode/array_partition)
