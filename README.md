@@ -279,3 +279,5 @@
 [LeetCode - Product of Array Excpet Self](./solved/LeetCode/product_array)
 
 [LeetCode - Best Time To Buy and Sell Stock](./solved/LeetCode/best_time)
+
+[LeetCode - Valid Parentheses](./solved/LeetCode/valid_parentheses)
