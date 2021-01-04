@@ -281,3 +281,7 @@
 [LeetCode - Best Time To Buy and Sell Stock](./solved/LeetCode/best_time)
 
 [LeetCode - Valid Parentheses](./solved/LeetCode/valid_parentheses)
+
+[LeetCode - Remove Duplicate Letters](./solved/LeetCode/remove_duplicate)
+
+[LeetCode - Daily Temperatures](./solved/LeetCode/daily_temperatures)
