@@ -284,6 +284,8 @@
 
 [LeetCode - Merge Two Sorted Lists](./solved/LeetCode/merge_linkedlist)
 
+[LeetCode - Reverse Linked List](./solved/LeetCode/reverse_linkedlist)
+
 [LeetCode - Valid Parentheses](./solved/LeetCode/valid_parentheses)
 
 [LeetCode - Remove Duplicate Letters](./solved/LeetCode/remove_duplicate)
