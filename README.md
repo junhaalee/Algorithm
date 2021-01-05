@@ -290,6 +290,8 @@
 
 [LeetCode - Swap Nodes in Pairs](./solved/LeetCode/swap_nodes)
 
+[LeetCode - Odd Even Linked List](./solved/LeetCode/oddeven_linkedlist)
+
 [LeetCode - Valid Parentheses](./solved/LeetCode/valid_parentheses)
 
 [LeetCode - Remove Duplicate Letters](./solved/LeetCode/remove_duplicate)
