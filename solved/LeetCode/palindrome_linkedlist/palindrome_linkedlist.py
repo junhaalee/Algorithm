@@ -4,6 +4,7 @@
 #         self.val = val
 #         self.next = next
 
+# 스택
 class Solution:
     def isPalindrome(self, head: ListNode) -> bool:
         q: List = []
@@ -22,6 +23,7 @@ class Solution:
         
         return True
 
+# 데크
 from collections import deque
 class Solution:
     def isPalindrome(self, head: ListNode) -> bool:
@@ -40,3 +42,22 @@ class Solution:
                 return False
         
         return True
+
+# 런너 기법
+class Solution:
+    def isPalindrome(self, head: ListNode) -> bool:
+        rev = None
+        slow = fast = head
+
+        while fast and fast.next :
+            fast = fast.next.next
+            rev, rev.next, slow = slow, rev, slow.next
+
+        if fast:
+            slow = slow.next
+        
+        while rev and rev.val == slow.val:
+            slow, rev = slow.next, rev.next
+        
+        return not rev
+        
