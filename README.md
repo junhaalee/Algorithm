@@ -280,6 +280,8 @@
 
 [LeetCode - Best Time To Buy and Sell Stock](./solved/LeetCode/best_time)
 
+[LeetCode - Palindrome Linked List](./solved/LeetCode/palindrome_linkedlist)
+
 [LeetCode - Valid Parentheses](./solved/LeetCode/valid_parentheses)
 
 [LeetCode - Remove Duplicate Letters](./solved/LeetCode/remove_duplicate)
