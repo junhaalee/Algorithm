@@ -282,6 +282,8 @@
 
 [LeetCode - Palindrome Linked List](./solved/LeetCode/palindrome_linkedlist)
 
+[LeetCode - Merge Two Sorted Lists](./solved/LeetCode/merge_linkedlist)
+
 [LeetCode - Valid Parentheses](./solved/LeetCode/valid_parentheses)
 
 [LeetCode - Remove Duplicate Letters](./solved/LeetCode/remove_duplicate)
