@@ -288,6 +288,8 @@
 
 [LeetCode - Add Two Numbers](./solved/LeetCode/add_twonumbers)
 
+[LeetCode - Swap Nodes in Pairs](./solved/LeetCode/swap_nodes)
+
 [LeetCode - Valid Parentheses](./solved/LeetCode/valid_parentheses)
 
 [LeetCode - Remove Duplicate Letters](./solved/LeetCode/remove_duplicate)
