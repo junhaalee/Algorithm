@@ -300,4 +300,6 @@
 
 [LeetCode - Daily Temperatures](./solved/LeetCode/daily_temperatures)
 
-[LeetCode - Implement Stack Using Queue](./solved/LeetCode/implement_stack)
+[LeetCode - Implement Stack using Queues](./solved/LeetCode/implement_stack)
+
+[LeetCode - Implement Queue using Stacks](./solved/LeetCode/implement_stack)
