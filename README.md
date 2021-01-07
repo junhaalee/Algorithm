@@ -305,3 +305,5 @@
 [LeetCode - Implement Queue using Stacks](./solved/LeetCode/implement_stack)
 
 [LeetCode - Design Circular Queue](./solved/LeetCode/design_circularqueue)
+
+[LeetCode - Design Circular Deque](./solved/LeetCode/design_circulardeque)
