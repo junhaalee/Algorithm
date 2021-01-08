@@ -313,3 +313,5 @@
 [LeetCode - Merge k Sorted Lists](./solved/LeetCode/merge_sortedlists)
 
 [LeetCode - Design HashMap](./solved/LeetCode/design_hashmap)
+
+[LeetCode - Jewels and Stones](./solved/LeetCode/jewels_stones)
