@@ -311,3 +311,5 @@
 [LeetCode - Design Circular Deque](./solved/LeetCode/design_circulardeque)
 
 [LeetCode - Merge k Sorted Lists](./solved/LeetCode/merge_sortedlists)
+
+[LeetCode - Design HashMap](./solved/LeetCode/design_hashmap)
