@@ -319,3 +319,5 @@
 [LeetCode - Longest Substring Without Repeating Characters](./solved/LeetCode/longest_substring)
 
 [LeetCode - Top K Frequent Elements](./solved/LeetCode/frequent_elements)
+
+[LeetCode - Number of Islands](./solved/LeetCode/islands_number)
