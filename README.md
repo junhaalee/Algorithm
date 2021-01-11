@@ -333,3 +333,5 @@
 [LeetCode - Subsets](./solved/LeetCode/subset)
 
 [LeetCode - Reconstruct Itinerary](./solved/LeetCode/reconstruct_itinerary)
+
+[LeetCode - Course Schedule](./solved/LeetCode/course_schedule)
