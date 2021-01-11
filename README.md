@@ -323,3 +323,5 @@
 [LeetCode - Number of Islands](./solved/LeetCode/islands_number)
 
 [LeetCode - Letter Combinations of a Phone Number](./solved/LeetCode/letter_combinations)
+
+[LeetCode - Permutations](./solved/LeetCode/permutations)
