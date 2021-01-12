@@ -335,3 +335,5 @@
 [LeetCode - Reconstruct Itinerary](./solved/LeetCode/reconstruct_itinerary)
 
 [LeetCode - Course Schedule](./solved/LeetCode/course_schedule)
+
+[LeetCode - Network Delay Time](./solved/LeetCode/network_delay)
