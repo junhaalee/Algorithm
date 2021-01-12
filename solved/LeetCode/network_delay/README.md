@@ -23,6 +23,8 @@ class Solution:
             # 출발 노드에서부터 가장 빨리 도착한 노드부터 탐색 시작
             time, node = heapq.heappop(Q)
             
+            # 항상 최소값만을 넣어주기 위해.
+            # 최초로 들어가는 값이 최소값이고 그 이후에는 무조건 기존에 있는 값보다 큰 time을 가질 것이기 때문에
             if node not in dist:
                 dist[node] = time
                 for no,t in graph[node]:
