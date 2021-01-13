@@ -343,3 +343,5 @@
 [LeetCode - Network Delay Time](./solved/LeetCode/network_delay)
 
 [LeetCode - Cheapest Flights Within K Stops](./solved/LeetCode/cheapest_flights)
+
+[LeetCode - Maximum Depth of Binary Tree](./solved/LeetCode/maximum_depth)
