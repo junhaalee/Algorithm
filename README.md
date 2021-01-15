@@ -345,3 +345,5 @@
 [LeetCode - Cheapest Flights Within K Stops](./solved/LeetCode/cheapest_flights)
 
 [LeetCode - Maximum Depth of Binary Tree](./solved/LeetCode/maximum_depth)
+
+[LeetCode - Diameter of Binary Tree](./solved/LeetCode/diameter_binarytree)
