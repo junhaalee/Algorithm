@@ -1,0 +1,26 @@
+### LeetCode - [Merge Two Binary Tree](https://leetcode.com/problems/merge-two-binary-trees/)
+
+### 풀이
+
+* 재귀를 사용해야겠다는 직감
+
+```Python
+
+class Solution:
+    def mergeTrees(self, t1: TreeNode, t2: TreeNode) -> TreeNode:
+        # 두 노드 둘 다 None이 아니라면
+        if t1 and t2:
+
+            node = TreeNode(t1.val+t2.val)
+            node.left = self.mergeTrees(t1.left, t2.left)
+            node.right = self.mergeTrees(t1.right,t2.right)
+            
+            return node
+        
+        # 둘 중 하나라도 None이라면
+        else:
+            # None이 아닌 노드를 return
+            return t1 or t2
+
+```
+

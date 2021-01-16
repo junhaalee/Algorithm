@@ -358,3 +358,5 @@
 [LeetCode - Longest Univalue Path](./solved/LeetCode/longest_univalue)
 
 [LeetCode - Invert Binary Tree](./solved/LeetCode/invert_binarytree)
+
+[LeetCode - Merge Two Binary Trees](./solved/LeetCode/merge_binarytree)
