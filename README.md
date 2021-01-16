@@ -356,3 +356,5 @@
 [LeetCode - Diameter of Binary Tree](./solved/LeetCode/diameter_binarytree)
 
 [LeetCode - Longest Univalue Path](./solved/LeetCode/longest_univalue)
+
+[LeetCode - Invert Binary Tree](./solved/LeetCode/invert_binarytree)
