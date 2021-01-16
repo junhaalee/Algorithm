@@ -8,6 +8,7 @@
 * pre-order : A->B->C
 * in-order : B->A->C
 * post-order : B->C->A
+* 재귀는 생각보다 단순하다
 
 ```Python
 
