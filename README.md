@@ -347,3 +347,5 @@
 [LeetCode - Maximum Depth of Binary Tree](./solved/LeetCode/maximum_depth)
 
 [LeetCode - Diameter of Binary Tree](./solved/LeetCode/diameter_binarytree)
+
+[LeetCode - Longest Univalue Path](./solved/LeetCode/longest_univalue)
