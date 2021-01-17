@@ -360,3 +360,5 @@
 [LeetCode - Invert Binary Tree](./solved/LeetCode/invert_binarytree)
 
 [LeetCode - Merge Two Binary Trees](./solved/LeetCode/merge_binarytree)
+
+[LeetCode - Serialize and Deserialize Binary Tree](./solved/LeetCode/serial_binarytree)
