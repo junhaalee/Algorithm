@@ -374,3 +374,5 @@
 [LeetCode - Range Sum of BST](./solved/LeetCode/range_bst)
 
 [LeetCode - Minimum Distance Between BST Nodes](./solved/LeetCode/min_distance_bst)
+
+[LeetCode - Construct Binary Tree from Preorder and Inorder Traversal](./solved/LeetCode/construct_bst)
