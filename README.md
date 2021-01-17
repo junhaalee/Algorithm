@@ -362,3 +362,5 @@
 [LeetCode - Merge Two Binary Trees](./solved/LeetCode/merge_binarytree)
 
 [LeetCode - Serialize and Deserialize Binary Tree](./solved/LeetCode/serial_binarytree)
+
+[LeetCode - Balanced Binary Tree](./solved/LeetCode/balance_binarytree)
