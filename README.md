@@ -366,3 +366,5 @@
 [LeetCode - Balanced Binary Tree](./solved/LeetCode/balanced_binarytree)
 
 [LeetCode - Minimum Height Trees](./solved/LeetCode/minimum_height)
+
+[LeetCode - Convert Sorted Array to Binary Search Tree](./solved/LeetCode/convert_bst)
