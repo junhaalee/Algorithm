@@ -372,3 +372,5 @@
 [LeetCode - Binary Search Tree to Greater Sum Tree](./solved/LeetCode/bst_sumtree)
 
 [LeetCode - Range Sum of BST](./solved/LeetCode/range_bst)
+
+[LeetCode - Minimum Distance Between BST Nodes](./solved/LeetCode/min_distance_bst)
