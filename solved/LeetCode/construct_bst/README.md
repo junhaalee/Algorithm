@@ -2,7 +2,7 @@
 
 ### 풀이
 
-![참고](./solved/img/img1.jpeg)
+![참고](./solved/img/img1.jpg)
 
 * 분할 정복 문제로 바뀐다
 
