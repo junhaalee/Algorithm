@@ -363,4 +363,6 @@
 
 [LeetCode - Serialize and Deserialize Binary Tree](./solved/LeetCode/serial_binarytree)
 
-[LeetCode - Balanced Binary Tree](./solved/LeetCode/balance_binarytree)
+[LeetCode - Balanced Binary Tree](./solved/LeetCode/balanced_binarytree)
+
+[LeetCode - Minimum Height Trees](./solved/LeetCode/minimum_height)
