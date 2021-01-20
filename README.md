@@ -378,3 +378,5 @@
 [LeetCode - Construct Binary Tree from Preorder and Inorder Traversal](./solved/LeetCode/construct_bst)
 
 [LeetCode - Implement Trie(Prefix Tree)](./solved/LeetCode/implement_trie)
+
+[LeetCode - Palindrome Pairs](./solved/LeetCode/palindrome_pairs)
