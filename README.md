@@ -388,3 +388,5 @@
 [LeetCode - Insertion Sort List](./solved/LeetCode/insertion-sort)
 
 [LeetCode - Largest Number](./solved/LeetCode/largest_number)
+
+[LeetCode - K Closest Points to Origin](./solved/LeetCode/closest_points)
