@@ -382,3 +382,7 @@
 [LeetCode - Palindrome Pairs](./solved/LeetCode/palindrome_pairs)
 
 [LeetCode - Sort List](./solved/LeetCode/sort_list)
+
+[LeetCode - Merge Intervals](./solved/LeetCode/merge_intervals)
+
+[LeetCode - Insertion Sort List](./solved/LeetCode/insertion-sort)
