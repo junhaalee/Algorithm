@@ -380,3 +380,5 @@
 [LeetCode - Implement Trie(Prefix Tree)](./solved/LeetCode/implement_trie)
 
 [LeetCode - Palindrome Pairs](./solved/LeetCode/palindrome_pairs)
+
+[LeetCode - Sort List](./solved/LeetCode/sort_list)
