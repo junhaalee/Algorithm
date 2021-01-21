@@ -386,3 +386,5 @@
 [LeetCode - Merge Intervals](./solved/LeetCode/merge_intervals)
 
 [LeetCode - Insertion Sort List](./solved/LeetCode/insertion-sort)
+
+[LeetCode - Largest Number](./solved/LeetCode/largest_number)
