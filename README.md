@@ -392,3 +392,5 @@
 [LeetCode - K Closest Points to Origin](./solved/LeetCode/closest_points)
 
 [LeetCode - Binary Search](./solved/LeetCode/binary_search)
+
+[LeetCode - Search in Rotated Sorted Array](./solved/LeetCode/rotated_array)
