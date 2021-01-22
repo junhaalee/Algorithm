@@ -396,3 +396,5 @@
 [LeetCode - Search in Rotated Sorted Array](./solved/LeetCode/rotated_array)
 
 [LeetCode - Intersection of Two Arrays](./solved/LeetCode/intersection)
+
+[LeetCode - Two Sum II - Input array is sorted](./solved/LeetCode/two_sum(2))
