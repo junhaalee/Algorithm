@@ -394,3 +394,5 @@
 [LeetCode - Binary Search](./solved/LeetCode/binary_search)
 
 [LeetCode - Search in Rotated Sorted Array](./solved/LeetCode/rotated_array)
+
+[LeetCode - Intersection of Two Arrays](./solved/LeetCode/intersection)
