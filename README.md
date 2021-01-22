@@ -390,3 +390,5 @@
 [LeetCode - Largest Number](./solved/LeetCode/largest_number)
 
 [LeetCode - K Closest Points to Origin](./solved/LeetCode/closest_points)
+
+[LeetCode - Binary Search](./solved/LeetCode/binary_search)
