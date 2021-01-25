@@ -404,3 +404,5 @@
 [LeetCode - Sliding Window Maximum](./solved/LeetCode/sw_maximum)
 
 [LeetCode - Minimum Window Substring](./solved/LeetCode/minimum_substring)
+
+[LeetCode - Longest Repeating Character Replacement](./solved/LeetCode/longest_replacement)
