@@ -410,3 +410,5 @@
 [LeetCode - Best Time to Buy and Sell Stock II](./solved/LeetCode/best_time2)
 
 [LeetCode - Queue Reconstruction by Height](./solved/LeetCode/queue_height)
+
+[LeetCode - Task Scheduler](./solved/LeetCode/task_scheduler)
