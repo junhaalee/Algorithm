@@ -406,3 +406,5 @@
 [LeetCode - Minimum Window Substring](./solved/LeetCode/minimum_substring)
 
 [LeetCode - Longest Repeating Character Replacement](./solved/LeetCode/longest_replacement)
+
+[LeetCode - Best Time to Buy and Sell Stock II](./solved/LeetCode/best_time2)
