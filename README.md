@@ -414,3 +414,5 @@
 [LeetCode - Task Scheduler](./solved/LeetCode/task_scheduler)
 
 [LeetCode - Gas Station](./solved/LeetCode/gas_station)
+
+[LeetCode - Assign Cookies](./solved/LeetCode/assign_cookies)
