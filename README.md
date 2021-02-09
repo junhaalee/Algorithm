@@ -416,3 +416,5 @@
 [LeetCode - Gas Station](./solved/LeetCode/gas_station)
 
 [LeetCode - Assign Cookies](./solved/LeetCode/assign_cookies)
+
+[LeetCode - Majority Element](./solved/LeetCode/majority_element)
