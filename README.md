@@ -108,7 +108,7 @@
 
 [#2583 영역 구하기](./solved/백준/2583)
 
-[#18405 영역 구하기](./solved/백준/8405)
+[#1707 이분 그래프](./solved/백준/1707)
 
 ### STACK(LIFO) & QUEUE(FIFO) & DEQUE & HEAP
 
@@ -385,7 +385,7 @@
 
 [LeetCode - Merge Intervals](./solved/LeetCode/merge_intervals)
 
-[LeetCode - Insertion Sort List](./solved/LeetCode/insertion-sort)
+[LeetCode - Insertion Sort List](./solved/LeetCode/insertion_sort)
 
 [LeetCode - Largest Number](./solved/LeetCode/largest_number)
 
