@@ -110,6 +110,8 @@
 
 [#1707 이분 그래프](./solved/백준/1707)
 
+[#14502 연구소](./solved/백준/14502)
+
 ### STACK(LIFO) & QUEUE(FIFO) & DEQUE & HEAP
 
 [#1966 프린터 큐](./solved/백준/1966)
