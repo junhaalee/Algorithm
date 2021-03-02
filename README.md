@@ -114,6 +114,8 @@
 
 [#1937 욕심쟁이 판다](./solved/백준/1937)
 
+[#1939 중량 제한](./solved/백준/1939)
+
 ### STACK(LIFO) & QUEUE(FIFO) & DEQUE & HEAP
 
 [#1966 프린터 큐](./solved/백준/1966)
