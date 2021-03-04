@@ -116,6 +116,8 @@
 
 [#1939 중량 제한](./solved/백준/1939)
 
+[#1613 역사](./solved/백준/1613)
+
 ### STACK(LIFO) & QUEUE(FIFO) & DEQUE & HEAP
 
 [#1966 프린터 큐](./solved/백준/1966)
