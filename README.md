@@ -277,6 +277,8 @@
 
 [프로그래머스 - 땅따먹기](./solved/프로그래머스/땅따먹기)
 
+[프로그래머스 - 합승 택시 요금](./solved/프로그래머스/합승택시요금)
+
 ## Leet Code
 
 [LeetCode - Valid Palindrome](./solved/LeetCode/valid_palindrome)
