@@ -118,6 +118,8 @@
 
 [#1613 역사](./solved/백준/1613)
 
+[#1520 내리막 길](./solved/백준/1520)
+
 ### STACK(LIFO) & QUEUE(FIFO) & DEQUE & HEAP
 
 [#1966 프린터 큐](./solved/백준/1966)
